@@ -1,0 +1,12 @@
+schema: "classroom50/repo-config/v1"
+classroom: "cs112-1422-online"
+assignment: "cs112-ud2-guis"
+owner:
+  username: "leozhang8654"
+  id: 261338259
+  accepted_at: "2026-09-13T17:46:41Z"
+source:
+  owner: "MiraCostaCS"
+  owner_id: 35788850
+  repo: "CS112-UD2-GUIs"
+  branch: "main"
